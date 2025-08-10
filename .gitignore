@@ -1,0 +1,18 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+.DS_Store
+
+# Experiment outputs
+results*.json
+results*.csv
+results*.png
+!results_forest.png
+!results_runtime.png
